@@ -8,7 +8,7 @@ This project provides an interactive Tableau visualization of global CO₂ emiss
 2. **CO₂ Emissions (2021) vs. Population** – A comparative analysis of emissions against population size.
 3. **CO₂ Global Share Over Time** – How each country's share of global emissions has changed over the years.
 
-## 📂 Files in This Repository
+## 📂 Files in This Folder
 - `Global CO2 Emission.twbx` → Tableau Packaged Workbook (interactive visualization)
 - `visualizing_global_co2_data.csv` → Dataset used for this visualization
 - `visualizing_global_CO2_emissions_data_dictionary.xlsx` → Dataset dictionary
