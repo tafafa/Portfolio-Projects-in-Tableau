@@ -20,7 +20,7 @@ The dataset was sourced from Maven Analytics **[Global CO2 Emissions](https://ma
 ## 📸 Visualization Preview
 
 ### CO₂ Emissions by Country
-![CO₂ Emissions by Country](./images/CO2 Emissions by country.png)
+![CO₂ Emissions by Country](./images/CO2_Emissions_by_country.png)
 
 ### CO₂ Emissions (2021) vs Population by Country
 ![CO₂ vs Population](./images/CO2_Emissions_(2021)_vs_Population_by_Country.png)
