@@ -20,7 +20,19 @@ The dataset was sourced from Maven Analytics **[Global CO2 Emissions](https://ma
 ## 📸 Visualization Preview
 
 ### CO₂ Emissions by Country
-![CO₂ Emissions by Country](./images/CO2_Emissions_by_country.png)
+
+This file is likely for map visuals (choropleth). It includes 2021 emissions for each country:
+
+🌐 Geographic Patterns
+   - High in North America, Europe, and Asia
+   - Lower in Africa and parts of Oceania
+   - Some entries (e.g., small island nations or territories) have no data — possibly due to negligible emissions or lack of reporting.
+     
+⚠️ Noteworthy Trends
+   - Oil-rich countries like Saudi Arabia and UAE show high emissions relative to their size.
+   - Emerging economies (e.g., India, Indonesia, Brazil) are showing increasing contributions to global totals.
+
+     ![CO₂ Emissions by Country](./images/CO2_Emissions_by_country.png)
 
 ### CO₂ Emissions (2021) vs Population by Country
 
@@ -41,10 +53,24 @@ Russia, Japan	      Also top contributors
 🔹 CO₂ Per Capita Extremes
    - Countries like Andorra, Qatar, and Luxembourg report very high per capita values.
    - Nations like Afghanistan, Ethiopia, and Nepal emit very little CO₂ per person (<1 ton).
+
 ![CO₂ vs Population](./images/CO2_Emissions_(2021)_vs_Population_by_Country.png)
 
 ### CO₂ Emissions Global Share by Year
+
+This dataset tracks global CO₂ shares and per capita emissions from 1750–2021.
+
+📊 Historical Shift in Emissions Share
+   - Early years (1750–1900): Emissions dominated by Europe and USA due to industrialization.
+   - Post-2000: A sharp increase in China’s share — now the single largest emitter.
+   - India’s share has grown steadily, especially since 2000.
+     
+📉 Per Capita Trends
+   - Developed nations like the USA, Canada, and Australia maintain high per capita levels.
+   - China’s per capita has surpassed many Western countries by 2021, indicating lifestyle and industrial shifts.
+   - Global average per capita has climbed slowly but steadily.
+
 ![CO₂ Global Share](./images/CO2_Emissions_Global_Share_by_Year.png)
 
 
-## 🌎 Insights & Findings
+-----
