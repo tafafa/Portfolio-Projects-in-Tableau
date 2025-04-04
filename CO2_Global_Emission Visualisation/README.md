@@ -23,6 +23,24 @@ The dataset was sourced from Maven Analytics **[Global CO2 Emissions](https://ma
 ![CO₂ Emissions by Country](./images/CO2_Emissions_by_country.png)
 
 ### CO₂ Emissions (2021) vs Population by Country
+
+This dataset gives a powerful snapshot of how CO₂ emissions vary in scale and intensity across the world. Here are some key insights:
+
+🔹 Top CO₂ Emitters (Total Emissions in 2021)
+Country	CO₂ Emissions (Mt)
+China	           🥇 Highest emitter globally
+United States	   🥈 Second-largest
+India	           🥉 Rapidly rising emissions
+Russia, Japan	      Also top contributors
+
+🔹 Emissions vs Population – Not Always Proportional
+   - China has high emissions and a large population — this balances its per capita emissions.
+   - USA has fewer people but extremely high per capita emissions (~15+ tons per person).
+   - Small nations like Qatar or UAE often show very high per capita emissions despite low population sizes.
+     
+🔹 CO₂ Per Capita Extremes
+   - Countries like Andorra, Qatar, and Luxembourg report very high per capita values.
+   - Nations like Afghanistan, Ethiopia, and Nepal emit very little CO₂ per person (<1 ton).
 ![CO₂ vs Population](./images/CO2_Emissions_(2021)_vs_Population_by_Country.png)
 
 ### CO₂ Emissions Global Share by Year
