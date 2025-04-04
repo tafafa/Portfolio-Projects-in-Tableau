@@ -12,7 +12,7 @@ This project provides an interactive Tableau visualization of global CO₂ emiss
 - `Global CO2 Emission.twbx` → Tableau Packaged Workbook (interactive visualization)
 - `visualizing_global_co2_data.csv` → Dataset used for this visualization
 - `visualizing_global_CO2_emissions_data_dictionary.xlsx` → Dataset dictionary
-- `images/` → Folder containing exported snapshots of the visualizations (optional)
+- `images/` → Folder containing exported snapshots of the visualization
 
 ## 🔍 Data Source
 The dataset was sourced from Maven Analytics **[Global CO2 Emissions](https://maven-datasets.s3.amazonaws.com/Global+CO2+Emissions/CO2+Emissions.zip)**, which provides historical and recent CO₂ emission records by country. 
